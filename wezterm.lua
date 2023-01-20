@@ -7,13 +7,21 @@ return {
   -- Color scheme
   -- https://wezfurlong.org/wezterm/config/appearance.html
   --
-  -- Dracula
-  -- https://draculatheme.com
-  -- color_scheme = "XCode Dusk (base16)",
-  color_scheme = "Poimandres",
+  -- color_scheme = "OneDark (base16)",
+  color_scheme = "Dracula",
+  -- color_scheme = "Dracula (Official)",
 
+  scrollback_lines = 3500,
 
   window_background_opacity = 0.90,
+  window_close_confirmation = "NeverPrompt",
+  window_padding = {
+      left = 0,
+      right = 0,
+      top = 0,
+      bottom = 0,
+  },
+
 
   -- Font configuration
   -- https://wezfurlong.org/wezterm/config/fonts.html
