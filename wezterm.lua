@@ -26,7 +26,7 @@ return {
   -- Font configuration
   -- https://wezfurlong.org/wezterm/config/fonts.html
   font = wezterm.font('Cousine Nerd Font'),
-  font_size = 13.0,
+  font_size = 11.5,
 
   -- Disable ligatures
   -- https://wezfurlong.org/wezterm/config/font-shaping.html
