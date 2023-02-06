@@ -26,7 +26,7 @@ return {
     -- Font configuration
     -- https://wezfurlong.org/wezterm/config/fonts.html
     font = wezterm.font('Cousine Nerd Font'),
-    font_size = 11.5,
+    font_size = 10.5,
     underline_position = -2,
     underline_thickness = "150%",
 
